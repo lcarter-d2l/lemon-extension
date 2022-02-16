@@ -30,7 +30,7 @@ MOD_DIR = "modified";
 if (require.main === module){
 
     /* Examples on how to use main functions */
-    //updateAttribute("Sample Content Sheet.xlsx", "ASSET TITLE", "title", "VIDEO ID", "video-js", "data-video-id");
+    updateAttribute("ABC MASTER.xlsx", "Title", "title", "Brightcove ID", "video-js", "data-video-id");
     //updateContent("title", "h1")
 }
 

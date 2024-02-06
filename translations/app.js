@@ -8,14 +8,14 @@ const path = require('path');
 // Assumed path is root ->  D:\Alex\lemon-extension>
 
 if (require.main === module){
-    translateSheet('sample_data/translations.xlsx', 'sample_data/english.js', '_es');
+    translateSheet('data/translations.xlsx', 'data/quiz.js', '_es');
 }
 
 /* Main Functions */
 /*
 Find and replace content in text file (.js, .txt, .html, etc) based on data in an excel sheet
 
-Output a file with replaced strings relative to the original file. 
+Output a file with replaced strings relative to the original file.
 Any missed finds are returned to terminal in an array and to .json file
 
 Parameters
@@ -41,12 +41,12 @@ function translateSheet(sheetName, fileName, postFix){
 
                 skipped.push(row.English.trim())
             }
-            
+
         })
-        
+
         const nameArray = fileName.split(".");
         let newFile = nameArray[0] + postFix + "." + nameArray[1];
-        
+
         fs.writeFile(path.join(__dirname, newFile), data, 'utf8', function (err) {
            if (err) return console.log(err);
         });
@@ -60,7 +60,7 @@ function translateSheet(sheetName, fileName, postFix){
 
     });
 
-    
+
 
 }
 

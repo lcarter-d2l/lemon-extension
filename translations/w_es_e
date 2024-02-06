@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet"
+href="/shared/HTML-Template-Library/IIN_HCTP2_Template_2021/_assets/thirdpartylib/bootstrap-4.3.1/css/bootstrap.min.css" />
+<!-- Font Awesome CSS -->
+<link rel="stylesheet"
+href="/shared/HTML-Template-Library/IIN_HCTP2_Template_2021/_assets/thirdpartylib/fontawesome-free-5.9.0-web/css/all.min.css" />
+<!-- Template CSS -->
+<link rel="stylesheet" href="/shared/HTML-Template-Library/IIN_HCTP2_Template_2021/_assets/css/styles.min.css" />
+<link rel="stylesheet" href="/shared/HTML-Template-Library/IIN_HCTP2_Template_2021/_assets/css/custom.css" />
+<title>Módulo 1: Redefinir el Concepto de la Salud</title>
+</head>
+
+<body>
+<div class="container-fluid">
+<div class="intersect-wrapper-legacy bg-img-wrapper iin-banner-splash">
+<p>
+<img src="img/mod01_banner.png?_&amp;d2lSessionVal=QlvwHQLd7zgdwlxTLYrLcsKnX" alt="" />
+</p>
+<div class="row">
+<div class="intersect-content-legacy col-12 offset-sm-1 col-sm-10">
+<div class="row">
+<div class="col-12 offset-sm-1 col-sm-10">
+<h1 class="text-center">Módulo 1: Redefinir el Concepto de la Salud</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-iin px-2 px-sm-5">
+<p>
+¡Te damos la bienvenida al curso The Health Coach Training Program (HCTP), el Programa de Formación de Coaches de Salud de IIN! Como suele decirse: “Cada paso que das en la vida expande tus horizontes”. En este módulo, explorarás múltiples perspectivas sobre la salud integral y el cuidado de la salud, y comenzarás a redefinir el concepto que tienes sobre la salud. Definirás tu propia visión de bienestar y descubrirás lo que hacen los coaches de salud y nutrición integral de IIN. Al final, entenderás lo que la salud significa para ti y verás con claridad las razones por las que comenzar a recorrer este camino.
+</p>
+<p>
+En este vídeo, accederás a una vista previa del contenido de este módulo y conocerás a algunos de los expertos en salud y bienestar de quienes irás aprendiendo.
+</p>
+<div class="rem-3"></div>
+<div class="video-component">
+<div class="video-wrapper">
+<div class="embed-responsive">
+<video-js data-account="1545417548001" data-player="pJZ2736fsN" data-embed="default"
+controls="controls" data-video-id="6273621525001" data-playlist-id=""
+data-application-id="" class="vjs-fluid"></video-js>
+<script src="https://players.brightcove.net/1545417548001/pJZ2736fsN_default/index.min.js">
+</script>
+</div>
+<!-- <div class="video-text">
+<p class="video-caption">Direct Link: <a href="https://youtu.be/sEYVxRPLioE" target="_blank">Create a File and Insert Stuff</a></p>
+</div> -->
+</div>
+</div>
+<div class="rem-4"></div>
+<hr />
+<h3 class="pb-2">Preguntas Fundamentales</h3>
+<div class="row">
+<div class="col-sm-10 offset-sm-1">
+<ol>
+<li>¿Qué significa la salud para ti??</li>
+<li>¿Qué es un coach de salud y nutrición integral de IIN??</li>
+<li>¿Por qué te inscribiste en el curso The Health Coach Training Program??
+</li>
+</ol>
+</div>
+</div>
+<hr />
+<footer class="page-footer">
+<div class="footer-bg"></div>
+<div
+class="footer-content d-flex flex-column-reverse flex-sm-row justify-content-between align-itmes-center">
+<div class="footer-text d-flex flex-column align-items-center align-items-sm-start">
+<p style="margin-bottom: 0">
+The Health Coach Training Program<sup>™</sup>
+</p>
+<p style="font-size: 50%">
+© 2022 Integrative Nutrition, LLC
+</p>
+</div>
+<div class="footer-logo d-block">
+<img src="/shared/HTML-Template-Library/IIN_HCTP2_Template_2021/_assets/img/frame.svg"
+alt="logo" class="d-none d-md-block" />
+<img src="/shared/HTML-Template-Library/IIN_HCTP2_Template_2021/_assets/img/frame_sm.svg"
+alt="logo" class="d-block d-md-none" />
+</div>
+</div>
+</footer>
+</div>
+</div>
+</div>
+<p>
+<script
+src="/shared/HTML-Template-Library/IIN_HCTP2_Template_2021/_assets/thirdpartylib/jquery/jquery-3.4.1.min.js">
+</script>
+<script
+src="/shared/HTML-Template-Library/IIN_HCTP2_Template_2021/_assets/thirdpartylib/popper-js/popper.min.js">
+</script>
+<script
+src="/shared/HTML-Template-Library/IIN_HCTP2_Template_2021/_assets/thirdpartylib/bootstrap-4.3.1/js/bootstrap.min.js">
+</script>
+</p>
+<!-- Template JavaScript -->
+<p>
+<script src="/shared/HTML-Template-Library/IIN_HCTP2_Template_2021/_assets/js/scripts.min.js"></script>
+</p>
+</body>
+
+</html>
